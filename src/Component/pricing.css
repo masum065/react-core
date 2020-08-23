@@ -1,0 +1,48 @@
+.single-pricing {
+    background: #f5f5f5;
+    padding: 30px 22px;
+    border-radius: 15px;
+}
+
+.app-icon img {
+    max-width: 35px;
+    margin-right: 10px;
+}
+
+h3.app-title {
+    font-size: 17px;
+    margin-top: 14px;
+    font-weight: 700;
+    color: #2c2c2c;
+}
+
+p.app-price {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+p.app-price span {
+    font-size: 24px;
+}
+
+.pricing-content-box p {
+    font-size: 14px;
+    line-height: 1.4;
+}
+
+input[type="checkbox"] {
+    font-size: 10px !important;
+}
+
+a.btn {
+    font-weight: 700;
+    padding: 7px 10px;
+    font-size: 12px;
+    border-radius: 21px;
+    margin-left: 9px;
+}
+
+.pf-left {
+    float: left;
+    width: 62%;
+}
